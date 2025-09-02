@@ -4,14 +4,14 @@
     {
       "id": "dragon_scimitar",
       "name": "Dragon scimitar",
-      "img": "",
+      "img": "https://oldschool.runescape.wiki/images/Dragon_scimitar.png",
       "wiki": "https://oldschool.runescape.wiki/w/Dragon_scimitar",
       "tags": ["Melee"]
     },
     {
       "id": "rune_crossbow",
       "name": "Rune crossbow",
-      "img": "",
+      "img": "https://oldschool.runescape.wiki/images/Rune_crossbow.png",
       "wiki": "https://oldschool.runescape.wiki/w/Rune_crossbow",
       "tags": ["Ranged"]
     }

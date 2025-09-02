@@ -1,9 +1,23 @@
 {
-  "tags": [],
+  "tags": ["Melee", "Range", "Magic", "Prayer"],
   "items": [
-    { "id": "amulet_of_strength", "name": "Amulet of strength", "img": "https://oldschool.runescape.wiki/images/Amulet_of_strength.png", "wiki": "https://oldschool.runescape.wiki/w/Amulet_of_strength", "tags": [] },
-    { "id": "climbing_boots", "name": "Climbing boots", "img": "https://oldschool.runescape.wiki/images/Climbing_boots.png", "wiki": "https://oldschool.runescape.wiki/w/Climbing_boots", "tags": [] },
-    { "id": "rune_pouch", "name": "Rune pouch", "img": "https://oldschool.runescape.wiki/images/Rune_pouch.png", "wiki": "https://oldschool.runescape.wiki/w/Rune_pouch", "tags": [] },
+    { "id": "amulet_of_strength", 
+      "name": "Amulet of strength", 
+      "img": "https://oldschool.runescape.wiki/images/Amulet_of_strength.png", 
+      "wiki": "https://oldschool.runescape.wiki/w/Amulet_of_strength", 
+      "tags": ["Melee"] },
+    
+    { "id": "climbing_boots", 
+      "name": "Climbing boots", 
+      "img": "https://oldschool.runescape.wiki/images/Climbing_boots.png", 
+      "wiki": "https://oldschool.runescape.wiki/w/Climbing_boots", 
+      "tags": ["Melee"] },
+    
+    { "id": "rune_pouch", 
+      "name": "Rune pouch", 
+      "img": "https://oldschool.runescape.wiki/images/Rune_pouch.png", 
+      "wiki": "https://oldschool.runescape.wiki/w/Rune_pouch", 
+      "tags": ["Magic"] },
 
     { "id": "ibans_staff_u", "name": "Iban's staff (u)", "img": "https://oldschool.runescape.wiki/images/Iban%27s_staff_%28u%29.png", "wiki": "https://oldschool.runescape.wiki/w/Iban%27s_staff_(u)", "tags": [] },
     { "id": "protect_from_melee", "name": "Protect from Melee", "img": "https://oldschool.runescape.wiki/images/Protect_from_Melee_icon.png", "wiki": "https://oldschool.runescape.wiki/w/Protect_from_Melee", "tags": [] },

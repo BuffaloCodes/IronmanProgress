@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "items": []
+  "tags": ["Melee", "Ranged"],
+  "items": [
+    {
+      "id": "dragon_scimitar",
+      "name": "Dragon scimitar",
+      "img": "",
+      "wiki": "https://oldschool.runescape.wiki/w/Dragon_scimitar",
+      "tags": ["Melee"]
+    },
+    {
+      "id": "rune_crossbow",
+      "name": "Rune crossbow",
+      "img": "",
+      "wiki": "https://oldschool.runescape.wiki/w/Rune_crossbow",
+      "tags": ["Ranged"]
+    }
+  ]
 }

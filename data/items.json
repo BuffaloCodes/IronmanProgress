@@ -1,67 +1,193 @@
 {
-  "tags": ["Melee", "Ranged"],
+  "tags": [],
   "items": [
-    {
-      "id": "dragon_scimitar",
-      "name": "Dragon scimitar",
-      "img": "https://oldschool.runescape.wiki/images/Dragon_scimitar.png",
-      "wiki": "https://oldschool.runescape.wiki/w/Dragon_scimitar",
-      "tags": ["Melee"]
-    },
-    {
-      "id": "rune_crossbow",
-      "name": "Rune crossbow",
-      "img": "https://oldschool.runescape.wiki/images/Rune_crossbow.png",
-      "wiki": "https://oldschool.runescape.wiki/w/Rune_crossbow",
-      "tags": ["Ranged"]
-    }
-  ]    {
-      "id": "amulet_of_strength",
-      "name": "Amulet of strength",
-      "img": "https://oldschool.runescape.wiki/images/Amulet_of_strength.png",
-      "wiki": "https://oldschool.runescape.wiki/w/Amulet_of_strength",
-      "tags": []
-    },
-    {
-      "id": "climbing_boots",
-      "name": "Climbing boots",
-      "img": "https://oldschool.runescape.wiki/images/Climbing_boots.png",
-      "wiki": "https://oldschool.runescape.wiki/w/Climbing_boots",
-      "tags": []
-    },
-    {
-      "id": "rune_pouch",
-      "name": "Rune pouch",
-      "img": "https://oldschool.runescape.wiki/images/Rune_pouch.png",
-      "wiki": "https://oldschool.runescape.wiki/w/Rune_pouch",
-      "tags": []
-    },
-    {
-      "id": "ibans_staff_u",
-      "name": "Iban's staff (u)",
-      "img": "https://oldschool.runescape.wiki/images/Iban%27s_staff_%28u%29.png",
-      "wiki": "https://oldschool.runescape.wiki/w/Iban%27s_staff_(u)",
-      "tags": []
-    },
-    {
-      "id": "protect_from_melee",
-      "name": "Protect from Melee",
-      "img": "https://oldschool.runescape.wiki/images/Protect_from_Melee_icon.png",
-      "wiki": "https://oldschool.runescape.wiki/w/Protect_from_Melee",
-      "tags": []
-    },
-    {
-      "id": "ancient_staff",
-      "name": "Ancient staff",
-      "img": "https://oldschool.runescape.wiki/images/Ancient_staff.png",
-      "wiki": "https://oldschool.runescape.wiki/w/Ancient_staff",
-      "tags": []
-    },
-    {
-      "id": "eagle_eye",
-      "name": "Eagle Eye",
-      "img": "https://oldschool.runescape.wiki/images/Eagle_Eye_icon.png",
-      "wiki": "https://oldschool.runescape.wiki/w/Eagle_Eye",
-      "tags": []
-    }
+    { "id": "amulet_of_strength", "name": "Amulet of strength", "img": "https://oldschool.runescape.wiki/images/Amulet_of_strength.png", "wiki": "https://oldschool.runescape.wiki/w/Amulet_of_strength", "tags": [] },
+    { "id": "climbing_boots", "name": "Climbing boots", "img": "https://oldschool.runescape.wiki/images/Climbing_boots.png", "wiki": "https://oldschool.runescape.wiki/w/Climbing_boots", "tags": [] },
+    { "id": "rune_pouch", "name": "Rune pouch", "img": "https://oldschool.runescape.wiki/images/Rune_pouch.png", "wiki": "https://oldschool.runescape.wiki/w/Rune_pouch", "tags": [] },
+
+    { "id": "ibans_staff_u", "name": "Iban's staff (u)", "img": "https://oldschool.runescape.wiki/images/Iban%27s_staff_%28u%29.png", "wiki": "https://oldschool.runescape.wiki/w/Iban%27s_staff_(u)", "tags": [] },
+    { "id": "protect_from_melee", "name": "Protect from Melee", "img": "https://oldschool.runescape.wiki/images/Protect_from_Melee_icon.png", "wiki": "https://oldschool.runescape.wiki/w/Protect_from_Melee", "tags": [] },
+    { "id": "ancient_staff", "name": "Ancient staff", "img": "https://oldschool.runescape.wiki/images/Ancient_staff.png", "wiki": "https://oldschool.runescape.wiki/w/Ancient_staff", "tags": [] },
+    { "id": "eagle_eye", "name": "Eagle Eye", "img": "https://oldschool.runescape.wiki/images/Eagle_Eye_icon.png", "wiki": "https://oldschool.runescape.wiki/w/Eagle_Eye", "tags": [] },
+
+    { "id": "fighter_torso", "name": "Fighter torso", "img": "https://oldschool.runescape.wiki/images/Fighter_torso.png", "wiki": "https://oldschool.runescape.wiki/w/Fighter_torso", "tags": [] },
+    { "id": "granite_body", "name": "Granite body", "img": "https://oldschool.runescape.wiki/images/Granite_body.png", "wiki": "https://oldschool.runescape.wiki/w/Granite_body", "tags": [] },
+
+    { "id": "dragon_scimitar", "name": "Dragon scimitar", "img": "https://oldschool.runescape.wiki/images/Dragon_scimitar.png", "wiki": "https://oldschool.runescape.wiki/w/Dragon_scimitar", "tags": [] },
+    { "id": "berserker_ring_i", "name": "Berserker ring (i)", "img": "https://oldschool.runescape.wiki/images/Berserker_ring_%28i%29.png", "wiki": "https://oldschool.runescape.wiki/w/Berserker_ring_(i)", "tags": [] },
+    { "id": "herb_sack", "name": "Herb sack", "img": "https://oldschool.runescape.wiki/images/Herb_sack.png", "wiki": "https://oldschool.runescape.wiki/w/Herb_sack", "tags": [] },
+
+    { "id": "dragon_defender", "name": "Dragon defender", "img": "https://oldschool.runescape.wiki/images/Dragon_defender.png", "wiki": "https://oldschool.runescape.wiki/w/Dragon_defender", "tags": [] },
+    { "id": "barrows_gloves", "name": "Barrows gloves", "img": "https://oldschool.runescape.wiki/images/Barrows_gloves.png", "wiki": "https://oldschool.runescape.wiki/w/Barrows_gloves", "tags": [] },
+
+    { "id": "helm_of_neitiznot", "name": "Helm of neitiznot", "img": "https://oldschool.runescape.wiki/images/Helm_of_neitiznot.png", "wiki": "https://oldschool.runescape.wiki/w/Helm_of_neitiznot", "tags": [] },
+    { "id": "book_of_the_dead", "name": "Book of the dead", "img": "https://oldschool.runescape.wiki/images/Book_of_the_dead.png", "wiki": "https://oldschool.runescape.wiki/w/Book_of_the_dead", "tags": [] },
+    { "id": "avas_accumulator", "name": "Ava's accumulator", "img": "https://oldschool.runescape.wiki/images/Ava%27s_accumulator.png", "wiki": "https://oldschool.runescape.wiki/w/Ava%27s_accumulator", "tags": [] },
+    { "id": "piety", "name": "Piety", "img": "https://oldschool.runescape.wiki/images/Piety_icon.png", "wiki": "https://oldschool.runescape.wiki/w/Piety", "tags": [] },
+    { "id": "open_gem_bag", "name": "Open gem bag", "img": "", "wiki": "https://oldschool.runescape.wiki/w/Gem_bag", "tags": [] },
+
+    { "id": "hallowed_crystal_shard", "name": "Hallowed crystal shard", "img": "https://oldschool.runescape.wiki/images/Hallowed_crystal_shard.png", "wiki": "https://oldschool.runescape.wiki/w/Hallowed_crystal_shard", "tags": [] },
+
+    { "id": "dark_altar_construction", "name": "Dark altar (Construction)", "img": "", "wiki": "https://oldschool.runescape.wiki/w/Dark_altar#Player-owned_house", "tags": [] },
+    { "id": "spirit_tree_construction", "name": "Spirit tree (Construction)", "img": "", "wiki": "https://oldschool.runescape.wiki/w/Spirit_tree#Player-owned_house", "tags": [] },
+    { "id": "rejuvenation_pool", "name": "Rejuvenation pool", "img": "https://oldschool.runescape.wiki/images/Rejuvenation_pool.png", "wiki": "https://oldschool.runescape.wiki/w/Rejuvenation_pool", "tags": [] },
+    { "id": "basic_jewellery_box", "name": "Basic jewellery box", "img": "https://oldschool.runescape.wiki/images/Basic_jewellery_box.png", "wiki": "https://oldschool.runescape.wiki/w/Basic_jewellery_box", "tags": [] },
+
+    { "id": "arkan_blade", "name": "Arkan blade", "img": "", "wiki": "", "tags": [] },
+
+    { "id": "black_mask_i", "name": "Black mask (i)", "img": "https://oldschool.runescape.wiki/images/Black_mask_%28i%29.png", "wiki": "https://oldschool.runescape.wiki/w/Black_mask_(i)", "tags": [] },
+    { "id": "imbued_zamorak_cape", "name": "Imbued zamorak cape", "img": "https://oldschool.runescape.wiki/images/Imbued_zamorak_cape.png", "wiki": "https://oldschool.runescape.wiki/w/Imbued_zamorak_cape", "tags": [] },
+    { "id": "bonecrusher", "name": "Bonecrusher", "img": "https://oldschool.runescape.wiki/images/Bonecrusher.png", "wiki": "https://oldschool.runescape.wiki/w/Bonecrusher", "tags": [] },
+    { "id": "ash_sanctifier", "name": "Ash sanctifier", "img": "https://oldschool.runescape.wiki/images/Ash_sanctifier.png", "wiki": "https://oldschool.runescape.wiki/w/Ash_sanctifier", "tags": [] },
+    { "id": "bigger_and_badder", "name": "Bigger and Badder", "img": "", "wiki": "https://oldschool.runescape.wiki/w/Bigger_and_Badder", "tags": [] },
+    { "id": "ice_barrage", "name": "Ice Barrage", "img": "https://oldschool.runescape.wiki/images/Ice_Barrage_icon.png", "wiki": "https://oldschool.runescape.wiki/w/Ice_Barrage", "tags": [] },
+    { "id": "infinity_boots", "name": "Infinity boots", "img": "https://oldschool.runescape.wiki/images/Infinity_boots.png", "wiki": "https://oldschool.runescape.wiki/w/Infinity_boots", "tags": [] },
+    { "id": "mages_book", "name": "Mage's book", "img": "https://oldschool.runescape.wiki/images/Mage%27s_book.png", "wiki": "https://oldschool.runescape.wiki/w/Mage%27s_book", "tags": [] },
+
+    { "id": "mixed_hide_cape", "name": "Mixed hide cape", "img": "", "wiki": "", "tags": [] },
+    { "id": "mixed_hide_boots", "name": "Mixed hide boots", "img": "", "wiki": "", "tags": [] },
+    { "id": "red_chinchompa", "name": "Red chinchompa", "img": "https://oldschool.runescape.wiki/images/Red_chinchompa.png", "wiki": "https://oldschool.runescape.wiki/w/Red_chinchompa", "tags": [] },
+    { "id": "70_ranged", "name": "70 ranged", "img": "", "wiki": "https://oldschool.runescape.wiki/w/Ranged", "tags": [] },
+
+    { "id": "broader_fletching", "name": "Broader Fletching", "img": "", "wiki": "https://oldschool.runescape.wiki/w/Broader_Fletching", "tags": [] },
+    { "id": "69_slayer", "name": "69 slayer", "img": "", "wiki": "https://oldschool.runescape.wiki/w/Slayer", "tags": [] },
+
+    { "id": "ghommals_hilt_2", "name": "Ghommal's hilt 2", "img": "https://oldschool.runescape.wiki/images/Ghommal%27s_hilt_2.png", "wiki": "https://oldschool.runescape.wiki/w/Ghommal%27s_hilt_2", "tags": [] },
+
+    { "id": "void_ranger_helm", "name": "Void ranger helm", "img": "https://oldschool.runescape.wiki/images/Void_ranger_helm.png", "wiki": "https://oldschool.runescape.wiki/w/Void_ranger_helm", "tags": [] },
+    { "id": "void_knight_gloves", "name": "Void knight gloves", "img": "https://oldschool.runescape.wiki/images/Void_knight_gloves.png", "wiki": "https://oldschool.runescape.wiki/w/Void_knight_gloves", "tags": [] },
+    { "id": "elite_void_top", "name": "Elite void top", "img": "https://oldschool.runescape.wiki/images/Elite_void_top.png", "wiki": "https://oldschool.runescape.wiki/w/Elite_void_top", "tags": [] },
+    { "id": "elite_void_robe", "name": "Elite void robe", "img": "https://oldschool.runescape.wiki/images/Elite_void_robe.png", "wiki": "https://oldschool.runescape.wiki/w/Elite_void_robe", "tags": [] },
+    { "id": "crystal_halberd", "name": "Crystal halberd", "img": "https://oldschool.runescape.wiki/images/Crystal_halberd.png", "wiki": "https://oldschool.runescape.wiki/w/Crystal_halberd", "tags": [] },
+
+    { "id": "92_ranged", "name": "92 ranged", "img": "", "wiki": "https://oldschool.runescape.wiki/w/Ranged", "tags": [] },
+    { "id": "86_strength", "name": "86 strength", "img": "", "wiki": "https://oldschool.runescape.wiki/w/Strength", "tags": [] },
+
+    { "id": "crystal_helm", "name": "Crystal helm", "img": "https://oldschool.runescape.wiki/images/Crystal_helm.png", "wiki": "https://oldschool.runescape.wiki/w/Crystal_helm", "tags": [] },
+    { "id": "bow_of_faerdhinen_c", "name": "Bow of faerdhinen (c)", "img": "https://oldschool.runescape.wiki/images/Bow_of_faerdhinen_%28c%29.png", "wiki": "https://oldschool.runescape.wiki/w/Bow_of_faerdhinen_(c)", "tags": [] },
+    { "id": "crystal_body", "name": "Crystal body", "img": "https://oldschool.runescape.wiki/images/Crystal_body.png", "wiki": "https://oldschool.runescape.wiki/w/Crystal_body", "tags": [] },
+    { "id": "crystal_legs", "name": "Crystal legs", "img": "https://oldschool.runescape.wiki/images/Crystal_legs.png", "wiki": "https://oldschool.runescape.wiki/w/Crystal_legs", "tags": [] },
+
+    { "id": "spellbook_swap", "name": "Spellbook Swap", "img": "https://oldschool.runescape.wiki/images/Spellbook_Swap_icon.png", "wiki": "https://oldschool.runescape.wiki/w/Spellbook_Swap", "tags": [] },
+
+    { "id": "explorers_ring_4", "name": "Explorer's ring 4", "img": "https://oldschool.runescape.wiki/images/Explorer%27s_ring_4.png", "wiki": "https://oldschool.runescape.wiki/w/Explorer%27s_ring_4", "tags": [] },
+    { "id": "wrath_rune", "name": "Wrath rune", "img": "https://oldschool.runescape.wiki/images/Wrath_rune.png", "wiki": "https://oldschool.runescape.wiki/w/Wrath_rune", "tags": [] },
+    { "id": "fire_cape", "name": "Fire cape", "img": "https://oldschool.runescape.wiki/images/Fire_cape.png", "wiki": "https://oldschool.runescape.wiki/w/Fire_cape", "tags": [] },
+    { "id": "karamja_gloves_3", "name": "Karamja gloves 3", "img": "https://oldschool.runescape.wiki/images/Karamja_gloves_3.png", "wiki": "https://oldschool.runescape.wiki/w/Karamja_gloves_3", "tags": [] },
+    { "id": "amulet_of_glory_6", "name": "Amulet of glory(6)", "img": "https://oldschool.runescape.wiki/images/Amulet_of_glory_%286%29.png", "wiki": "https://oldschool.runescape.wiki/w/Amulet_of_glory_(6)", "tags": [] },
+
+    { "id": "pharaohs_sceptre", "name": "Pharaoh's sceptre", "img": "https://oldschool.runescape.wiki/images/Pharaoh%27s_sceptre.png", "wiki": "https://oldschool.runescape.wiki/w/Pharaoh%27s_sceptre", "tags": [] },
+    { "id": "karamja_gloves_4", "name": "Karamja gloves 4", "img": "https://oldschool.runescape.wiki/images/Karamja_gloves_4.png", "wiki": "https://oldschool.runescape.wiki/w/Karamja_gloves_4", "tags": [] },
+
+    { "id": "occult_altar", "name": "Occult altar", "img": "https://oldschool.runescape.wiki/images/Occult_altar.png", "wiki": "https://oldschool.runescape.wiki/w/Occult_altar", "tags": [] },
+    { "id": "ornate_jewellery_box", "name": "Ornate jewellery box", "img": "https://oldschool.runescape.wiki/images/Ornate_jewellery_box.png", "wiki": "https://oldschool.runescape.wiki/w/Ornate_jewellery_box", "tags": [] },
+    { "id": "fairy_ring_construction", "name": "Fairy ring (Construction)", "img": "", "wiki": "https://oldschool.runescape.wiki/w/Fairy_ring#Player-owned_house", "tags": [] },
+    { "id": "ornate_rejuvenation_pool", "name": "Ornate rejuvenation pool", "img": "https://oldschool.runescape.wiki/images/Ornate_rejuvenation_pool.png", "wiki": "https://oldschool.runescape.wiki/w/Ornate_rejuvenation_pool", "tags": [] },
+
+    { "id": "avas_assembler", "name": "Ava's assembler", "img": "https://oldschool.runescape.wiki/images/Ava%27s_assembler.png", "wiki": "https://oldschool.runescape.wiki/w/Ava%27s_assembler", "tags": [] },
+    { "id": "bloodbark_helm", "name": "Bloodbark helm", "img": "https://oldschool.runescape.wiki/images/Bloodbark_helm.png", "wiki": "https://oldschool.runescape.wiki/w/Bloodbark_equipment", "tags": [] },
+    { "id": "bloodbark_body", "name": "Bloodbark body", "img": "https://oldschool.runescape.wiki/images/Bloodbark_body.png", "wiki": "https://oldschool.runescape.wiki/w/Bloodbark_equipment", "tags": [] },
+    { "id": "bloodbark_legs", "name": "Bloodbark legs", "img": "https://oldschool.runescape.wiki/images/Bloodbark_legs.png", "wiki": "https://oldschool.runescape.wiki/w/Bloodbark_equipment", "tags": [] },
+
+    { "id": "ancient_icon", "name": "Ancient icon", "img": "https://oldschool.runescape.wiki/images/Ancient_icon.png", "wiki": "https://oldschool.runescape.wiki/w/Ancient_icon", "tags": [] },
+
+    { "id": "slayer_helmet_i", "name": "Slayer helmet (i)", "img": "https://oldschool.runescape.wiki/images/Slayer_helmet_%28i%29.png", "wiki": "https://oldschool.runescape.wiki/w/Slayer_helmet_(i)", "tags": [] },
+    { "id": "arclight", "name": "Arclight", "img": "https://oldschool.runescape.wiki/images/Arclight.png", "wiki": "https://oldschool.runescape.wiki/w/Arclight", "tags": [] },
+    { "id": "warped_sceptre", "name": "Warped sceptre", "img": "https://oldschool.runescape.wiki/images/Warped_sceptre.png", "wiki": "https://oldschool.runescape.wiki/w/Warped_sceptre", "tags": [] },
+    { "id": "reptile_got_ripped", "name": "Reptile Got Ripped", "img": "", "wiki": "https://oldschool.runescape.wiki/w/Reptile_Got_Ripped", "tags": [] },
+    { "id": "greater_challenge", "name": "Greater Challenge", "img": "", "wiki": "", "tags": [] },
+
+    { "id": "prescription_goggles", "name": "Prescription goggles", "img": "", "wiki": "", "tags": [] },
+    { "id": "alchemists_amulet", "name": "Alchemist's amulet", "img": "", "wiki": "", "tags": [] },
+
+    { "id": "amulet_of_torture", "name": "Amulet of torture", "img": "https://oldschool.runescape.wiki/images/Amulet_of_torture.png", "wiki": "https://oldschool.runescape.wiki/w/Amulet_of_torture", "tags": [] },
+    { "id": "necklace_of_anguish", "name": "Necklace of anguish", "img": "https://oldschool.runescape.wiki/images/Necklace_of_anguish.png", "wiki": "https://oldschool.runescape.wiki/w/Necklace_of_anguish", "tags": [] },
+    { "id": "zamorakian_hasta", "name": "Zamorakian hasta", "img": "https://oldschool.runescape.wiki/images/Zamorakian_hasta.png", "wiki": "https://oldschool.runescape.wiki/w/Zamorakian_hasta", "tags": [] },
+    { "id": "bandos_godsword", "name": "Bandos godsword", "img": "https://oldschool.runescape.wiki/images/Bandos_godsword.png", "wiki": "https://oldschool.runescape.wiki/w/Bandos_godsword", "tags": [] },
+
+    { "id": "voidwaker", "name": "Voidwaker", "img": "https://oldschool.runescape.wiki/images/Voidwaker.png", "wiki": "https://oldschool.runescape.wiki/w/Voidwaker", "tags": [] },
+    { "id": "dragon_pickaxe", "name": "Dragon pickaxe", "img": "https://oldschool.runescape.wiki/images/Dragon_pickaxe.png", "wiki": "https://oldschool.runescape.wiki/w/Dragon_pickaxe", "tags": [] },
+
+    { "id": "deadeye", "name": "Deadeye", "img": "", "wiki": "", "tags": [] },
+    { "id": "mystic_vigour", "name": "Mystic Vigour", "img": "", "wiki": "", "tags": [] },
+
+    { "id": "thread_of_elidinis", "name": "Thread of elidinis", "img": "https://oldschool.runescape.wiki/images/Thread_of_elidinis.png", "wiki": "https://oldschool.runescape.wiki/w/Thread_of_elidinis", "tags": [] },
+    { "id": "lightbearer", "name": "Lightbearer", "img": "https://oldschool.runescape.wiki/images/Lightbearer.png", "wiki": "https://oldschool.runescape.wiki/w/Lightbearer", "tags": [] },
+
+    { "id": "ghommals_hilt_4", "name": "Ghommal's hilt 4", "img": "https://oldschool.runescape.wiki/images/Ghommal%27s_hilt_4.png", "wiki": "https://oldschool.runescape.wiki/w/Ghommal%27s_hilt_4", "tags": [] },
+
+    { "id": "abyssal_whip", "name": "Abyssal whip", "img": "https://oldschool.runescape.wiki/images/Abyssal_whip.png", "wiki": "https://oldschool.runescape.wiki/w/Abyssal_whip", "tags": [] },
+    { "id": "abyssal_tentacle", "name": "Abyssal tentacle", "img": "https://oldschool.runescape.wiki/images/Abyssal_tentacle.png", "wiki": "https://oldschool.runescape.wiki/w/Abyssal_tentacle", "tags": [] },
+    { "id": "dragon_warhammer", "name": "Dragon warhammer", "img": "https://oldschool.runescape.wiki/images/Dragon_warhammer.png", "wiki": "https://oldschool.runescape.wiki/w/Dragon_warhammer", "tags": [] },
+    { "id": "emberlight", "name": "Emberlight", "img": "", "wiki": "", "tags": [] },
+    { "id": "dragon_boots", "name": "Dragon boots", "img": "https://oldschool.runescape.wiki/images/Dragon_boots.png", "wiki": "https://oldschool.runescape.wiki/w/Dragon_boots", "tags": [] },
+    { "id": "scorching_bow", "name": "Scorching bow", "img": "", "wiki": "", "tags": [] },
+    { "id": "tormented_bracelet", "name": "Tormented bracelet", "img": "https://oldschool.runescape.wiki/images/Tormented_bracelet.png", "wiki": "https://oldschool.runescape.wiki/w/Tormented_bracelet", "tags": [] },
+    { "id": "burning_claws", "name": "Burning claws", "img": "", "wiki": "", "tags": [] },
+    { "id": "ring_of_suffering_i", "name": "Ring of suffering (i)", "img": "https://oldschool.runescape.wiki/images/Ring_of_suffering_%28i%29.png", "wiki": "https://oldschool.runescape.wiki/w/Ring_of_suffering_(i)", "tags": [] },
+
+    { "id": "avernic_treads", "name": "Avernic treads", "img": "", "wiki": "", "tags": [] },
+
+    { "id": "rite_of_vile_transference", "name": "Rite of vile transference", "img": "", "wiki": "", "tags": [] },
+
+    { "id": "desert_amulet_4", "name": "Desert amulet 4", "img": "https://oldschool.runescape.wiki/images/Desert_amulet_4.png", "wiki": "https://oldschool.runescape.wiki/w/Desert_amulet_4", "tags": [] },
+    { "id": "radas_blessing_4", "name": "Rada's blessing 4", "img": "https://oldschool.runescape.wiki/images/Rada%27s_blessing_4.png", "wiki": "https://oldschool.runescape.wiki/w/Rada%27s_blessing_4", "tags": [] },
+
+    { "id": "primordial_boots", "name": "Primordial boots", "img": "https://oldschool.runescape.wiki/images/Primordial_boots.png", "wiki": "https://oldschool.runescape.wiki/w/Primordial_boots", "tags": [] },
+    { "id": "amulet_of_rancour", "name": "Amulet of rancour", "img": "", "wiki": "", "tags": [] },
+    { "id": "eternal_boots", "name": "Eternal boots", "img": "https://oldschool.runescape.wiki/images/Eternal_boots.png", "wiki": "https://oldschool.runescape.wiki/w/Eternal_boots", "tags": [] },
+    { "id": "occult_necklace", "name": "Occult necklace", "img": "https://oldschool.runescape.wiki/images/Occult_necklace.png", "wiki": "https://oldschool.runescape.wiki/w/Occult_necklace", "tags": [] },
+
+    { "id": "eye_of_ayak", "name": "Eye of ayak", "img": "", "wiki": "", "tags": [] },
+    { "id": "confliction_gauntlets", "name": "Confliction gauntlets", "img": "", "wiki": "", "tags": [] },
+
+    { "id": "toxic_blowpipe", "name": "Toxic blowpipe", "img": "https://oldschool.runescape.wiki/images/Toxic_blowpipe.png", "wiki": "https://oldschool.runescape.wiki/w/Toxic_blowpipe", "tags": [] },
+
+    { "id": "osmumtens_fang", "name": "Osmumten's fang", "img": "https://oldschool.runescape.wiki/images/Osmumten%27s_fang.png", "wiki": "https://oldschool.runescape.wiki/w/Osmumten%27s_fang", "tags": [] },
+
+    { "id": "dragon_hunter_lance", "name": "Dragon hunter lance", "img": "https://oldschool.runescape.wiki/images/Dragon_hunter_lance.png", "wiki": "https://oldschool.runescape.wiki/w/Dragon_hunter_lance", "tags": [] },
+    { "id": "ferocious_gloves", "name": "Ferocious gloves", "img": "https://oldschool.runescape.wiki/images/Ferocious_gloves.png", "wiki": "https://oldschool.runescape.wiki/w/Ferocious_gloves", "tags": [] },
+
+    { "id": "rigour", "name": "Rigour", "img": "https://oldschool.runescape.wiki/images/Rigour_icon.png", "wiki": "https://oldschool.runescape.wiki/w/Rigour", "tags": [] },
+    { "id": "augury", "name": "Augury", "img": "https://oldschool.runescape.wiki/images/Augury_icon.png", "wiki": "https://oldschool.runescape.wiki/w/Augury", "tags": [] },
+
+    { "id": "infernal_cape", "name": "Infernal cape", "img": "https://oldschool.runescape.wiki/images/Infernal_cape.png", "wiki": "https://oldschool.runescape.wiki/w/Infernal_cape", "tags": [] },
+
+    { "id": "oathplate_chest", "name": "Oathplate chest", "img": "", "wiki": "", "tags": [] },
+    { "id": "oathplate_legs", "name": "Oathplate legs", "img": "", "wiki": "", "tags": [] },
+    { "id": "oathplate_helm", "name": "Oathplate helm", "img": "", "wiki": "", "tags": [] },
+
+    { "id": "ultor_ring", "name": "Ultor ring", "img": "https://oldschool.runescape.wiki/images/Ultor_ring.png", "wiki": "https://oldschool.runescape.wiki/w/Ultor_ring", "tags": [] },
+
+    { "id": "dizanas_quiver", "name": "Dizana's quiver", "img": "https://oldschool.runescape.wiki/images/Dizana%27s_quiver.png", "wiki": "https://oldschool.runescape.wiki/w/Dizana%27s_quiver", "tags": [] },
+    { "id": "avernic_defender", "name": "Avernic defender", "img": "https://oldschool.runescape.wiki/images/Avernic_defender.png", "wiki": "https://oldschool.runescape.wiki/w/Avernic_defender", "tags": [] },
+
+    { "id": "tumekens_shadow", "name": "Tumeken's shadow", "img": "https://oldschool.runescape.wiki/images/Tumeken%27s_shadow.png", "wiki": "https://oldschool.runescape.wiki/w/Tumeken%27s_shadow", "tags": [] },
+    { "id": "magus_ring", "name": "Magus ring", "img": "https://oldschool.runescape.wiki/images/Magus_ring.png", "wiki": "https://oldschool.runescape.wiki/w/Magus_ring", "tags": [] },
+
+    { "id": "twisted_bow", "name": "Twisted bow", "img": "https://oldschool.runescape.wiki/images/Twisted_bow.png", "wiki": "https://oldschool.runescape.wiki/w/Twisted_bow", "tags": [] },
+    { "id": "dragon_claws", "name": "Dragon claws", "img": "https://oldschool.runescape.wiki/images/Dragon_claws.png", "wiki": "https://oldschool.runescape.wiki/w/Dragon_claws", "tags": [] },
+    { "id": "ancestral_robe_top", "name": "Ancestral robe top", "img": "https://oldschool.runescape.wiki/images/Ancestral_robe_top.png", "wiki": "https://oldschool.runescape.wiki/w/Ancestral_robe_top", "tags": [] },
+    { "id": "ancestral_robe_bottom", "name": "Ancestral robe bottom", "img": "https://oldschool.runescape.wiki/images/Ancestral_robe_bottom.png", "wiki": "https://oldschool.runescape.wiki/w/Ancestral_robe_bottom", "tags": [] },
+    { "id": "ancestral_hat", "name": "Ancestral hat", "img": "https://oldschool.runescape.wiki/images/Ancestral_hat.png", "wiki": "https://oldschool.runescape.wiki/w/Ancestral_hat", "tags": [] },
+    { "id": "elder_maul", "name": "Elder maul", "img": "https://oldschool.runescape.wiki/images/Elder_maul.png", "wiki": "https://oldschool.runescape.wiki/w/Elder_maul", "tags": [] },
+
+    { "id": "masori_body_f", "name": "Masori body (f)", "img": "https://oldschool.runescape.wiki/images/Masori_body_%28f%29.png", "wiki": "https://oldschool.runescape.wiki/w/Masori_body_(f)", "tags": [] },
+    { "id": "masori_chaps_f", "name": "Masori chaps (f)", "img": "https://oldschool.runescape.wiki/images/Masori_chaps_%28f%29.png", "wiki": "https://oldschool.runescape.wiki/w/Masori_chaps_(f)", "tags": [] },
+    { "id": "masori_mask_f", "name": "Masori mask (f)", "img": "https://oldschool.runescape.wiki/images/Masori_mask_%28f%29.png", "wiki": "https://oldschool.runescape.wiki/w/Masori_mask_(f)", "tags": [] },
+    { "id": "elidinis_ward", "name": "Elidinis' ward", "img": "https://oldschool.runescape.wiki/images/Elidinis%27_ward.png", "wiki": "https://oldschool.runescape.wiki/w/Elidinis%27_ward", "tags": [] },
+
+    { "id": "saturated_heart", "name": "Saturated heart", "img": "https://oldschool.runescape.wiki/images/Saturated_heart.png", "wiki": "https://oldschool.runescape.wiki/w/Saturated_heart", "tags": [] },
+    { "id": "venator_ring", "name": "Venator ring", "img": "https://oldschool.runescape.wiki/images/Venator_ring.png", "wiki": "https://oldschool.runescape.wiki/w/Venator_ring", "tags": [] },
+    { "id": "venator_bow", "name": "Venator bow", "img": "https://oldschool.runescape.wiki/images/Venator_bow.png", "wiki": "https://oldschool.runescape.wiki/w/Venator_bow", "tags": [] },
+
+    { "id": "ghommals_hilt_5", "name": "Ghommal's hilt 5", "img": "https://oldschool.runescape.wiki/images/Ghommal%27s_hilt_5.png", "wiki": "https://oldschool.runescape.wiki/w/Ghommal%27s_hilt_5", "tags": [] },
+
+    { "id": "torva_platebody", "name": "Torva platebody", "img": "https://oldschool.runescape.wiki/images/Torva_platebody.png", "wiki": "https://oldschool.runescape.wiki/w/Torva_platebody", "tags": [] },
+    { "id": "torva_platelegs", "name": "Torva platelegs", "img": "https://oldschool.runescape.wiki/images/Torva_platelegs.png", "wiki": "https://oldschool.runescape.wiki/w/Torva_platelegs", "tags": [] },
+    { "id": "torva_full_helm", "name": "Torva full helm", "img": "https://oldschool.runescape.wiki/images/Torva_full_helm.png", "wiki": "https://oldschool.runescape.wiki/w/Torva_full_helm", "tags": [] },
+    { "id": "scythe_of_vitur", "name": "Scythe of vitur", "img": "https://oldschool.runescape.wiki/images/Scythe_of_vitur.png", "wiki": "https://oldschool.runescape.wiki/w/Scythe_of_vitur", "tags": [] },
+    { "id": "zaryte_crossbow", "name": "Zaryte crossbow", "img": "https://oldschool.runescape.wiki/images/Zaryte_crossbow.png", "wiki": "https://oldschool.runescape.wiki/w/Zaryte_crossbow", "tags": [] },
+    { "id": "zaryte_vambraces", "name": "Zaryte vambraces", "img": "https://oldschool.runescape.wiki/images/Zaryte_vambraces.png", "wiki": "https://oldschool.runescape.wiki/w/Zaryte_vambraces", "tags": [] }
+  ]
 }

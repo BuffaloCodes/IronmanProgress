@@ -19,9 +19,24 @@
       "wiki": "https://oldschool.runescape.wiki/w/Rune_pouch", 
       "tags": ["Magic"] },
 
-    { "id": "ibans_staff_u", "name": "Iban's staff (u)", "img": "https://oldschool.runescape.wiki/images/Iban%27s_staff_%28u%29.png", "wiki": "https://oldschool.runescape.wiki/w/Iban%27s_staff_(u)", "tags": [] },
-    { "id": "protect_from_melee", "name": "Protect from Melee", "img": "https://oldschool.runescape.wiki/images/Protect_from_Melee_icon.png", "wiki": "https://oldschool.runescape.wiki/w/Protect_from_Melee", "tags": [] },
-    { "id": "ancient_staff", "name": "Ancient staff", "img": "https://oldschool.runescape.wiki/images/Ancient_staff.png", "wiki": "https://oldschool.runescape.wiki/w/Ancient_staff", "tags": [] },
+    { "id": "ibans_staff_u", 
+      "name": "Iban's staff (u)", 
+      "img": "https://oldschool.runescape.wiki/images/Iban%27s_staff_%28u%29.png", 
+      "wiki": "https://oldschool.runescape.wiki/w/Iban%27s_staff_(u)", 
+      "tags": ["Magic"] },
+    
+    { "id": "protect_from_melee", 
+      "name": "Protect from Melee", 
+      "img": "https://oldschool.runescape.wiki/images/Protect_from_Melee_icon.png", 
+      "wiki": "https://oldschool.runescape.wiki/w/Protect_from_Melee", 
+      "tags": ["Prayer"] },
+    
+    { "id": "ancient_staff", 
+      "name": "Ancient staff", 
+      "img": "https://oldschool.runescape.wiki/images/Ancient_staff.png", 
+      "wiki": "https://oldschool.runescape.wiki/w/Ancient_staff", 
+      "tags": ["Magic"] },
+    
     { "id": "eagle_eye", "name": "Eagle Eye", "img": "https://oldschool.runescape.wiki/images/Eagle_Eye_icon.png", "wiki": "https://oldschool.runescape.wiki/w/Eagle_Eye", "tags": [] },
 
     { "id": "fighter_torso", "name": "Fighter torso", "img": "https://oldschool.runescape.wiki/images/Fighter_torso.png", "wiki": "https://oldschool.runescape.wiki/w/Fighter_torso", "tags": [] },
